@@ -1,2 +1,2 @@
 # cpp-examples
-C++ programming example projects
+C++ programming example projects.
